@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.example.openshift"
+    },
+    "jhipsterVersion": "6.9.0",
+    "applicationType": "monolith",
+    "baseName": "sampleopenshift",
+    "packageName": "com.example.openshift",
+    "packageFolder": "com/example/openshift",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTNiM2FjMDY1NDg0ZGRhY2I5NjVjNzZlMjA2OGFlMWFhODExNmIwYmRiMTE0ZTRmNjYxYmNlMzM1NjFmYzBmMWIxZTU0NDQ0M2EzZjQ2ZjU3MDVkMGNiMWYyMThmMzBjMWE4NDVhOWM4NTc0MmY2ZDg2MDQ2ODU2YjlmNmE3YWY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "litera",
+    "clientThemeVariant": "light",
+    "creationTimestamp": 1598005103811,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
